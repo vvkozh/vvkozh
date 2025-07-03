@@ -40,7 +40,7 @@
 <div align="center">
 <a href="https://vk.com/vvkozh" target="_blank"><img height="40" width="50" src="assets/vk.svg"/></a>
 <a href="https://t.me/vvkozh" target="_blank"><img height="40" width="50" src="assets/telegram.svg"/></a>
-<a href="https://www.linkedin.com/in/владимир-кожевников-72aaa9345/" target="_blank"></a>
+<a href="https://www.linkedin.com/in/владимир-кожевников-72aaa9345/" target="_blank"><img height="40" width="50" src="assets/linkedin.svg"/></a>
 </div>
 
 <!--
